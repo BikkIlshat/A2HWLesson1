@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
         bindingClass.minus.setOnClickListener {
 
             val result = a - b
-            bindingClass.tvResult.text = "Результат вычитания равен : $result"
+            bindingClass.tvResult.text = "Результат вычитания равен :  $result"
         }
 
         bindingClass.multiply.setOnClickListener {
