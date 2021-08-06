@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A2HWLesson1</string>
+    <string name="click">Click</string>
+    <string name="Сложить">Сложить</string>
+    <string name="Отнять">Отнять</string>
+    <string name="Умножить">Умножить</string>
+</resources>
